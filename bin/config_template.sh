@@ -1,4 +1,4 @@
-# MODEL STRING
+# ASCII STRINGS
 
 list_items_to_replace=( "this is" "AN EXAMPLE" "with strings" )
 list_items_to_insert=(  "it goes" "FAR BETTER" "LIKE THIS !!"  )
@@ -10,7 +10,7 @@ default_string_in_bin_name_to_insert="output" # name to insert in binary name if
 
 
 
-# MODEL HEXADECIMAL
+# HEXADECIMAL STRINGS
 list_items_to_replace=( "616263" "AABB" "7F7F7F00" )
 list_items_to_insert=(  "414243" "0000" "20202020" )
 
